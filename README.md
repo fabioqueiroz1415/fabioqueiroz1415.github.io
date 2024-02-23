@@ -5,6 +5,6 @@
 -
 -
 - 👋 Olá, sou @fabioqueiroz1415
-- 👀 Estou interessado em colocar alguns projetos que fiz e que pretendo fazer aqui
-- 🌱 Atualmente estou aprendendo kotlin e linguagens que não conhecia antes
+- 👀 pRETENDOcolocar alguns projetos que fiz e que pretendo fazer aqui
+- 🌱 Atualmente estou aprendendo HTML e linguagens que não conhecia antes
 - ⚡ Curiosidade: 1415 é uma parte da dízima não periódica no número pi
